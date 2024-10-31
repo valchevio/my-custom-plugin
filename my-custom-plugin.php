@@ -1,7 +1,18 @@
 <?php
 /*
     Plugin Name: My Custom Plugin
-    Version: 0.0.0
+    Plugin URI: https://github.com/valchevio/my-custom-plugin
+    Description: A short description of the plugin, as displayed in the Plugins section in the WordPress Admin. Keep this description to fewer than 140 characters.
+    Version: 0.0.1
+    Requires at least: 6.6.2    
+    Requires PHP: 8.3.9
+    Author: Antoan Valchev
+    Author URI: https://valchev.io
+    License: GPLv2 or later
+    License URI: https://www.gnu.org/licenses/gpl-2.0.html
+    Text Domain: my-custom-plugin
+    Domain Path: /languages
+    Update URI: https://github.com/valchevio/my-custom-plugin
     GitHub URI: https://github.com/valchevio/my-custom-plugin
 */
 
